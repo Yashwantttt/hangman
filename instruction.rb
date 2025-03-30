@@ -1,0 +1,17 @@
+def instruction
+  puts "\t \tHANGMAN"
+  puts "(Save the poor hangman before you run out of chances!!)"
+  puts "In the game the computer will choose a random word and display it as :"
+  puts "_ _ _ _ _ (if the word is of 5 letters)"
+  puts "For example the word is : bench"
+  puts "The computer can give you hint by putting some letters in it like :"
+  puts "_ E _ _ H "
+  puts "YOU HAVE A TOTAL OF 6 CHANCES "
+  puts "You have to guess one letter at a time (like a, e, b etc.)"
+  puts "Every wrong guess cost 1 Chance"
+  puts "If you guessed the right word , then the right letter will be displayed"
+  puts "Like if you guessed N then :"
+  puts "_ _ N _ _"
+  puts "Good Luck"
+  puts "---------------------------------------------------------------------------------------"
+end
